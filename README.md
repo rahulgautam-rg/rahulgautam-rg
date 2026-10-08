@@ -1,6 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rahul Gautam</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e3a8a&height=220&section=header&text=Rahul%20Gautam&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=MIS%20Executive%20%E2%86%92%20Data%20Analyst&descAlignY=60&descSize=22&animation=fadeIn" />
+</p>
 
-<h3 align="center">MIS Executive → Data Analyst | Power BI • SQL • Excel • Python</h3>
+<h3 align="center">
+  Advanced Excel • Power BI • SQL • Python
+</h3>
+
+<p align="center">
+  Turning data into meaningful insights and business decisions 📊
+</p>
+
+<h3 align="center">MIS Executive → Data Analyst | Power BI • SQL • Python</h3>
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=rahulgautam-rg&color=blueviolet&style=flat-square" alt="rahulgautam-rg" /></p>
 

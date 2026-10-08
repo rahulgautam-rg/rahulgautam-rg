@@ -18,23 +18,19 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Rahul Gautam**, currently working as an **MIS Executive** and transitioning into **Data Analytics**, with a long-term goal of becoming a **Data Scientist**.
+Hi, I'm **Rahul Gautam**, currently working as an **MIS Executive** and transitioning into **Data Analytics**.
 
-I have hands-on experience in **Excel, reporting, data analysis, and Power BI**, while continuously developing my skills in **SQL and Python**.
+I have hands-on experience in **Advanced Excel, reporting, data analysis, and Power BI, Python, MySQL, PostgreSQL**, while continuously developing my skills in **SQL and Python**.
 
 I enjoy exploring data, identifying patterns, building interactive dashboards, and transforming raw data into meaningful business insights.
 
-My career journey is focused on progressing from **MIS → Data Analyst → Data Scientist**, combining business understanding with analytics, programming, statistics, and machine learning.
+My career journey is focused on progressing from **MIS → Data Analyst**, combining business understanding with analytics, programming, statistics, and machine learning.
 
 ### 🎯 Career Roadmap
 
 **MIS Executive**
 ↓
 **Data Analyst**
-↓
-**Data Scientist**
-↓
-**AI / Machine Learning**
 
 ---
 

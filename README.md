@@ -1,4 +1,6 @@
-<img width="2250" height="375" alt="image" src="https://github.com/user-attachments/assets/bd016b54-4f01-42a6-b16d-bb8b5870b6dc" />
+<h1 align="center">Hi 👋, I'm Rahul Gautam</h1>
+
+<h3 align="center">MIS Executive → Data Analyst | Power BI • SQL • Excel • Python</h3>
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=rahulgautam-rg&color=blueviolet&style=flat-square" alt="rahulgautam-rg" /></p>
 # Data Analyst | Data Scientist

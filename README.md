@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e3a8a&height=220&section=header&text=Rahul%20Gautam&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=MIS%20Executive%20%E2%86%92%20Data%20Analyst&descAlignY=60&descSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:1e3a8a&height=220&section=header&text=Rahul%20Gautam&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=MIS%20Executive%20%E2%86%92%20Data%20Analyst%20%E2%86%92%20Data%20Scientist&descAlignY=60&descSize=20&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Turning data into meaningful insights and business decisions 📊
+  Turning data into meaningful insights and building data-driven solutions 📊
 </p>
 
 <p align="center">
@@ -18,17 +18,23 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Rahul Gautam**, currently working as an **MIS Executive** and transitioning into **Data Analytics**.
+Hi, I'm **Rahul Gautam**, currently working as an **MIS Executive** and transitioning into **Data Analytics**, with a long-term goal of becoming a **Data Scientist**.
 
-I have hands-on experience in **Excel, reporting, data analysis, and Power BI**, and I am continuously developing my skills in **SQL and Python**.
+I have hands-on experience in **Excel, reporting, data analysis, and Power BI**, while continuously developing my skills in **SQL and Python**.
 
-I enjoy working with data, identifying trends, building interactive dashboards, and transforming raw information into meaningful business insights.
+I enjoy exploring data, identifying patterns, building interactive dashboards, and transforming raw data into meaningful business insights.
 
-🎯 **Career Goal:** Data Analyst / Business Intelligence Analyst
+My career journey is focused on progressing from **MIS → Data Analyst → Data Scientist**, combining business understanding with analytics, programming, statistics, and machine learning.
 
-📊 **Focus Areas:** Data Analysis • Business Intelligence • Data Visualization • Reporting
+### 🎯 Career Roadmap
 
-🚀 **Currently Learning:** SQL • Python for Data Analysis • Advanced Power BI
+**MIS Executive**
+↓
+**Data Analyst**
+↓
+**Data Scientist**
+↓
+**AI / Machine Learning**
 
 ---
 
@@ -77,6 +83,17 @@ Sales and financial analysis project using advanced Excel functions, reporting t
 
 ---
 
+## 🧠 Currently Learning
+
+* 🐍 Python for Data Analysis
+* 🗄️ SQL & Database Analytics
+* 📊 Advanced Power BI & DAX
+* 📐 Statistics for Data Science
+* 🤖 Machine Learning
+* 🧠 Artificial Intelligence
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -104,5 +121,5 @@ Sales and financial analysis project using advanced Excel functions, reporting t
 ---
 
 <p align="center">
-  <b>💡 Turning Data Into Insights | 📊 Building With Data | 🚀 Growing Every Day</b>
+  <b>📊 Analyze • 🧠 Learn • 🤖 Build • 🚀 Grow</b>
 </p>

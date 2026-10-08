@@ -10,31 +10,99 @@
   Turning data into meaningful insights and business decisions 📊
 </p>
 
-<h3 align="center">MIS Executive → Data Analyst | Power BI • SQL • Python</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulgautam-rg&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=rahulgautam-rg&color=blueviolet&style=flat-square" alt="rahulgautam-rg" /></p>
-
-# Data Analyst | Data Scientist
-
-A self-driven Data Analytics professional with hands-on expertise in **Power BI, SQL, and Excel, Python**, actively exploring **Python** and building practical data-driven solutions to solve business problems.
----
-### Tech Stack & Tools
-
-<p align="left">  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></p>
 ---
 
-### Featured Projects
-* **[Business Insights 360](https://github.com/rahulgautam-rg/Business_Insights_360)** - Interactive Business Intelligence dashboard built using Power BI, MySQL, Power Query to analyze revenue, profit, KPIs, and regional performance.
+## 👨‍💻 About Me
 
-* **[Hospitality Analytics Project](https://github.com/rahulgautam-rg/Hospitality_Analytics_Project)** - Comprehensive dashboard analyzing revenue, occupancy rate, ADR, RevPAR, and booking trends.*
+Hi, I'm **Rahul Gautam**, currently working as an **MIS Executive** and transitioning into **Data Analytics**.
 
-* **[Sales Performance Analysis](https://github.com/rahulgautam-rg/Sales-Performance-Analysis-By-using-Excel)** - Sales and financial report project for AtliQ Hardware leveraging advanced Excel functions.
+I have hands-on experience in **Excel, reporting, data analysis, and Power BI**, and I am continuously developing my skills in **SQL and Python**.
+
+I enjoy working with data, identifying trends, building interactive dashboards, and transforming raw information into meaningful business insights.
+
+🎯 **Career Goal:** Data Analyst / Business Intelligence Analyst
+
+📊 **Focus Areas:** Data Analysis • Business Intelligence • Data Visualization • Reporting
+
+🚀 **Currently Learning:** SQL • Python for Data Analysis • Advanced Power BI
+
 ---
 
-### GitHub Stats
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=rahulgautam-rg&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" /></p>
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 ---
 
-### Connect with Me
+## 📊 Featured Projects
 
-<p align="left">  <a href="https://linkedin.com/in/ragam" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>  <a href="mailto:rahulgautam.iu@gmail.com">    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a></p>
+### 🔹 Business Insights 360
+
+**Power BI | MySQL | Power Query | DAX**
+
+Interactive Business Intelligence dashboard covering Finance, Sales, Marketing, Supply Chain, and Executive insights.
+
+🔗 [View Project](https://github.com/rahulgautam-rg/Business_Insights_360)
+
+---
+
+### 🔹 Hospitality Analytics Project
+
+**Power BI | Data Analysis | Business Intelligence**
+
+Interactive hospitality analytics dashboard analyzing revenue, occupancy rate, ADR, RevPAR, booking trends, and other key performance indicators.
+
+🔗 [View Project](https://github.com/rahulgautam-rg/Hospitality_Analytics_Project)
+
+---
+
+### 🔹 Sales Performance Analysis
+
+**Advanced Excel | Data Analysis | Business Reporting**
+
+Sales and financial analysis project using advanced Excel functions, reporting techniques, and interactive analysis.
+
+🔗 [View Project](https://github.com/rahulgautam-rg/Sales-Performance-Analysis-By-using-Excel)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulgautam-rg&show_icons=true&theme=tokyonight" alt="Rahul's GitHub Stats" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/ragam">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:rahulgautam.iu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/rahulgautam-rg">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Turning Data Into Insights | 📊 Building With Data | 🚀 Growing Every Day</b>
+</p>

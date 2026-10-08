@@ -1,6 +1,6 @@
 # Hey! 👋 I'm Rahul Gautam
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=rahulgautam-rg&color=blueviolet&style=flat-square" alt="rahulgautam-rg" /></p>
-### Analytics Professional | Data Analyst
+# Data Analyst | Data Scientist
 A self-driven Data Analytics professional with hands-on expertise in **Power BI, SQL, and Excel**, actively exploring **Python** and building practical data-driven solutions to solve business problems.
 ---
 ### Tech Stack & Tools

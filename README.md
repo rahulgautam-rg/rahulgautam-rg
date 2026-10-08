@@ -3,12 +3,16 @@
 <h3 align="center">MIS Executive → Data Analyst | Power BI • SQL • Excel • Python</h3>
 
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=rahulgautam-rg&color=blueviolet&style=flat-square" alt="rahulgautam-rg" /></p>
+
 # Data Analyst | Data Scientist
+
 A self-driven Data Analytics professional with hands-on expertise in **Power BI, SQL, and Excel, Python**, actively exploring **Python** and building practical data-driven solutions to solve business problems.
 ---
 ### Tech Stack & Tools
+
 <p align="left">  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></p>
 ---
+
 ### Featured Projects
 * **[Business Insights 360](https://github.com/rahulgautam-rg/Business_Insights_360)** - Interactive Business Intelligence dashboard built using Power BI, MySQL, Power Query to analyze revenue, profit, KPIs, and regional performance.
 
